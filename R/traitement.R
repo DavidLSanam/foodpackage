@@ -902,3 +902,5 @@ calculer_indicateurs_synthetiques <- function(base, base_x1 = NULL,
   )
 }
 
+
+
